@@ -1,0 +1,53 @@
+footer {
+  height: 150px;
+}
+footer nav {
+  width: 365px;
+  height: 40px;
+  display: flex;
+  justify-content: space-between;
+  margin: 30px auto;
+}
+footer nav .logo {
+  width: 30px;
+  height: 30px;
+  background-image: url("../../../images/image1/Group.png");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+footer nav div {
+  width: 350px;
+  height: 40px;
+  display: flex;
+  gap: 0 25px;
+}
+footer nav div button {
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  padding-top: 17px;
+  font-size: 12px;
+  line-height: 17.33px;
+  text-align: left;
+}
+footer div {
+  width: 200px;
+  height: 30px;
+  margin: 0 auto 30px;
+  display: flex;
+}
+footer div div {
+  width: 30px;
+  height: 30px;
+  background-image: url("../../../images/image1/Vector.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+footer hr {
+  width: 60px;
+  height: 3px;
+}
+
+/*# sourceMappingURL=page1Footer.css.map */

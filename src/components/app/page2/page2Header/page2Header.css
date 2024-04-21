@@ -1,0 +1,48 @@
+.page2Header {
+  height: 260px;
+  background-image: url("../../../images/Image2/Img837.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  color: white;
+  padding-top: 24px;
+}
+.page2Header nav {
+  width: 365px;
+  height: 40px;
+  display: flex;
+  justify-content: space-between;
+  margin-left: 150px;
+}
+.page2Header nav .logo {
+  width: 35px;
+  height: 35px;
+  background-image: url("../../../images/image1/Imaje1.png");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.page2Header nav div {
+  display: flex;
+  gap: 0 25px;
+}
+.page2Header nav div button {
+  color: white;
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  padding-top: 20px;
+  font-size: 12px;
+  line-height: 17.33px;
+  text-align: left;
+}
+.page2Header h1 {
+  width: 223px;
+  height: 45px;
+  font-size: 40px;
+  line-height: 57.76px;
+  text-align: left;
+  margin: 15px auto;
+}
+
+/*# sourceMappingURL=page2Header.css.map */

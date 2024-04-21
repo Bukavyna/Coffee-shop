@@ -1,0 +1,59 @@
+header {
+  height: 640px;
+  color: white;
+  background-image: url("../../../images/image1/Main bg.jpg");
+  background-repeat: no-repeat;
+  background-position: left;
+  background-size: cover;
+  padding-top: 60px;
+}
+header nav {
+  width: 365px;
+  height: 40px;
+  display: flex;
+  justify-content: space-between;
+  margin-left: 150px;
+}
+header nav .logo {
+  width: 35px;
+  height: 35px;
+  background-image: url("../../../images/image1/Imaje1.png");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+header nav div {
+  display: flex;
+  gap: 0 25px;
+}
+header nav div button {
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  padding-top: 20px;
+  font-size: 12px;
+  line-height: 17.33px;
+  text-align: left;
+}
+header h1 {
+  width: 670px;
+  height: 44px;
+  font-size: 40px;
+  line-height: 57.76px;
+  text-align: left;
+  margin: 82px auto;
+}
+header p {
+  font-size: 24px;
+  line-height: 34.66px;
+}
+header button {
+  font-size: 14px;
+  line-height: 20.22px;
+  color: white;
+  background-color: transparent;
+  cursor: pointer;
+  border: 1px solid white;
+}
+
+/*# sourceMappingURL=page1.css.map */
