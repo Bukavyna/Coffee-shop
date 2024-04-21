@@ -3,12 +3,13 @@ import { Component } from 'react';
 import Page1Header from './page1/page1Header/page1Header';
 import Page1Main from './page1/page1Main/page1Main';
 import Page1Main2 from './page1/page1Main2/page1Main2';
+import Page1Footer from './page1/page1Footer/page1Footer';
 
 import Page2Header from './page2/page2Header/page2Header';
 
 import './app.css';
-import { PageItem } from 'react-bootstrap';
-import Page1Footer from './page1/page1Footer/page1Footer';
+
+
 
 class App extends Component {
 
